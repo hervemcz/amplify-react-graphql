@@ -1,0 +1,14 @@
+{
+  "resourceName": "herveamplifys3bucket",
+  "policyUUID": "65531c3a",
+  "bucketName": "amplifyreactgraphql12de6158c97c431c9846461c8d18",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}

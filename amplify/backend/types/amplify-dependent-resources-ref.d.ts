@@ -16,5 +16,11 @@ export type AmplifyDependentResourcesAttributes = {
             "GraphQLAPIIdOutput": "string",
             "GraphQLAPIEndpointOutput": "string"
         }
+    },
+    "storage": {
+        "herveamplifys3bucket": {
+            "BucketName": "string",
+            "Region": "string"
+        }
     }
 }
